@@ -15,7 +15,7 @@ class Skills extends webDeveloper {
   languages  = ['JavaScript'];
   databases  = [ 'MongoDB'];
   tools = ['vscode'];
-  frameworks = ['React', 'React Native', 'Angular', 'GraphQL'];
+  frameworks = ['React'];
 }
 ```
 ----
