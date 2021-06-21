@@ -5,13 +5,13 @@
 ```js
 import webDeveloper from 'self';
 
-class Bio extends SoftwareDeveloper {
+class Bio extends webDeveloper {
   name     = 'Hamed zibandeh';
   title    = 'Web Developer';
   location = 'Iran, Tehran';
 }
 
-class Skills extends SoftwareDeveloper {
+class Skills extends webDeveloper {
   languages  = ['JavaScript'];
   databases  = [ 'MongoDB'];
   tools = ['vscode'];
