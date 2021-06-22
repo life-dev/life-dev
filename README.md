@@ -3,19 +3,20 @@
 </p>
 
 ```js
-import webDeveloper from 'self';
+const webDeveloper = {
+    Name: "Hamed",
+    Family:"Zibandeh",
+    Location: "Iran , Tehran",
+    Email: "high_dev@outlook.com",
 
-class Bio extends webDeveloper {
-  name     = 'Hamed zibandeh';
-  title    = 'Web Developer';
-  location = 'Iran, Tehran';
-}
+    Skills = ['Html , Css , Sass , javaScript, Mongodb , Nodejs'],
 
-class Skills extends webDeveloper {
-  languages  = ['JavaScript'];
-  databases  = [ 'MongoDB'];
-  tools = ['vscode'];
-  frameworks = ['React'];
+    Tools = {
+        editor : "Visual studio code",
+        os = ['Windows 10 , Ubuntu 20.04']
+  
+    }
+    
 }
 ```
 ----
