@@ -5,7 +5,6 @@
 ```js
 const webDeveloper = {
     Name: "Hamed",
-    Family:"Zibandeh",
     Location: "Iran , Tehran",
     Email: "high_dev@outlook.com",
 
