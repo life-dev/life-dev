@@ -12,7 +12,7 @@ const webDeveloper = {
 
     Tools = {
         editor : "Visual studio code",
-        os = ['Windows 10 , Ubuntu 20.04']
+        os = ['macOS Monterey']
   
     }
     
