@@ -8,7 +8,7 @@ const webDeveloper = {
     Location: "Iran , Tehran",
     Email: "high_dev@outlook.com",
 
-    Skills = ['Html , Css , Sass ,Bootstrap,Tailwindcss, javaScript, Mongodb , Nodejs'],
+    Skills = ['Html , Css , Sass , Bootstrap, Tailwindcss, Git, javaScript , Mongodb , Nodejs'],
 
     Tools = {
         editor : "Visual studio code",
