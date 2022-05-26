@@ -7,10 +7,10 @@ const webDeveloper = {
     Name: "Hamed",
     Location: "Iran , Tehran",
     Email: "high_dev@outlook.com", 
-    Skills : ['Network+','Ceh v7','Html' , 'Css' , 'Sass' , 'Bootstrap', 'Tailwindcss', 'Git', 'javaScript' , 'ReactJs' , 'Mongodb' , 'Nodejs'],
+    Skills : ['Network+','Ceh v7', 'Sass' , 'Bootstrap', 'Tailwindcss', 'Git', 'javaScript' , 'ReactJs' , 'Mongodb' , 'Nodejs'],
     Tools : {
         editor : "Visual studio code",
-        os : ["macOS Monterey","Kali linux"],
+        os : ["macOS Monterey","Kali linux","windows 11"],
     }
     
 }
