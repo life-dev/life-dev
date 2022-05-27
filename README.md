@@ -10,7 +10,7 @@ const webDeveloper = {
     Skills : ['Network+','Ceh v7', 'Sass' , 'Bootstrap', 'Tailwindcss', 'Git', 'javaScript' , 'ReactJs' , 'Mongodb' , 'Nodejs'],
     Tools : {
         editor : "Visual studio code",
-        os : ["macOS Monterey","Kali linux","windows 11"],
+        os : ["macOS Monterey"],
     }
     
 }
