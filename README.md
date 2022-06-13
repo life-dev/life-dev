@@ -7,7 +7,7 @@ const webDeveloper = {
     Name: "Hamed",
     Location: "Iran , Tehran",
     Email: "high_dev@outlook.com", 
-    Skills : ['Network+','Ceh v7', 'Sass' , 'Bootstrap', 'Tailwindcss', 'Git', 'javaScript' , 'ReactJs' , 'Mongodb' , 'Nodejs'],
+    Skills : ['Html','css', 'Sass' , 'Bootstrap', 'Tailwindcss', 'Git', 'javaScript' , 'ReactJs'],
     Tools : {
         editor : "Visual studio code",
         os : ["macOS Monterey"],
